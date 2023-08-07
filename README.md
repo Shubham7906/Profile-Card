@@ -1,3 +1,10 @@
+# PREVIEW
+![card](https://github.com/Shubham7906/React-Profile-Card/assets/76210714/ece84aba-3399-4ee7-9ecf-ae4d73c947c4)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
